@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// 修改main问价，添加注释
+// 测试git的使用
 struct Node
 {
     int a, b;
